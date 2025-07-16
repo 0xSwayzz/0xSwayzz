@@ -1,16 +1,14 @@
-## Hi there 👋
+# :wave: My name is swayzz
 
-<!--
-**0xSwayzz/0xSwayzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## learning
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cplusplus/cplusplus-original.svg" alt="python" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg" alt="python" width="42" height="42" /></a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div display="inline">
+
+# STATS
+[![Discord Presence](https://lanyard.cnrad.dev/api/598887245906182174)](https://discord.com/users/598887245906182174)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=medicalsectors&theme=midnight-purple)  
+![](https://github-readme-stats.vercel.app/api?username=medicalsectors&theme=github_dark)
