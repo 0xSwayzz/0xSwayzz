@@ -10,5 +10,5 @@
 # STATS
 [![Discord Presence](https://lanyard.cnrad.dev/api/598887245906182174)](https://discord.com/users/598887245906182174)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=medicalsectors&theme=midnight-purple)  
-![](https://github-readme-stats.vercel.app/api?username=medicalsectors&theme=github_dark)
+![](https://github-readme-streak-stats.herokuapp.com/?user=0xswayzz&theme=midnight-purple)  
+![](https://github-readme-stats.vercel.app/api?username=0xswayzz&theme=github_dark)
